@@ -1,4 +1,5 @@
 # Instacart Basket Analysis Project
+![Instacart Logo image](Instacart Logo.png)
 ## Project Summary 
 This repository analyzes Instacart's online grocery shopping data to uncover key sales patterns and customer behaviours. The aim is to provide actionable insights for the Instacart stakeholders, focusing on popular products, customer loyalty, and regional differences. Through data analysis and visualisation, identifing potential customer segments and generate data-driven recommendations for improved targeting and marketing efforts, ultimately optimising Instacart's operations and enhancing customer satisfaction.
 ## Key Questions
